@@ -1,0 +1,19 @@
+{
+  "name": "next_book",
+  "version": "1.0.0",
+  "description": "[TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発](https://www.amazon.co.jp/TypeScript%E3%81%A8React-Next-js%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%AE%9F%E8%B7%B5Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA-%E6%89%8B%E5%B3%B6-%E6%8B%93%E4%B9%9F-ebook/dp/B0B74C3TNQ/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=3EOPIMFZDAAI&dib=eyJ2IjoiMSJ9.agVuH0wVyBpQk4L4meYcOssABHIueF28icI4Pz_4Eqpj5j07lyU6Y1crkuh4tRdpiuJiFZFrFEjISmratKnZN5iKzF2fGdnYC8rWbJRgtY4AsHgW5UzKXf01jMpSOYhnkVbeLq_wArwDzFDZtORzXB7gqe30KSL8-6bQAWRSzT1kbOE0lQf0-TmF2t1wn7s-xP6KK3dBAGSQKFLpeTyHyi4L5CSjmDZiuBgaHIhbZlbQZ7irIEUFZvITOEtjrL-ndwI0ThKtHzqrfntwS0cOKkjymO2sUhJPYZdzqPvEegc.d6UJu1D-mtc311REhazLpsVdvdh2VBX3XMHqTIpxgGQ&dib_tag=se&keywords=ypeScript%E3%81%A8React%2FNext.js%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%AE%9F%E8%B7%B5Web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA&qid=1715908254&sprefix=ypescript%E3%81%A8react%2Fnext.js%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B%E5%AE%9F%E8%B7%B5web%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%96%8B%E7%99%BA%2Caps%2C232&sr=8-1)のアウトプット用です。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier-format": "prettier --config .prettierrc 'src/**/*.ts' --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  }
+}
